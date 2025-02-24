@@ -1,0 +1,34 @@
+{
+  "name": "Backed NVIDIA",
+  "website": "https://backed.fi/",
+  "description": "bNVDA is a tokenized NVIDIA product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+  "type": "XDAI",
+  "symbol": "bNVDA",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "defi",
+    "RWA",
+    "tokenized stocks"
+  ],
+  "id": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/backed-fi/"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/backedfi"
+    },
+    {
+      "name": "docs",
+      "url": "https://docs.backed.fi/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/backed-bndva-nvidia"
+    }
+  ]
+}

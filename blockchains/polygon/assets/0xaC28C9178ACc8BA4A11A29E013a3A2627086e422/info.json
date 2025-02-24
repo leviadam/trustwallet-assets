@@ -1,0 +1,34 @@
+{
+  "name": "Backed Strategy",
+  "website": "https://backed.fi/",
+  "description": "bMSTR is a tokenized Strategy product, issued by Backed",
+  "explorer": "https://polygonscan.com/token/0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+  "type": "POLYGON",
+  "symbol": "bMSTR",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "defi",
+    "RWA",
+    "tokenized stocks"
+  ],
+  "id": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/backed-fi/"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/backedfi"
+    },
+    {
+      "name": "docs",
+      "url": "https://docs.backed.fi/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/backed-microstrategy"
+    }
+  ]
+}

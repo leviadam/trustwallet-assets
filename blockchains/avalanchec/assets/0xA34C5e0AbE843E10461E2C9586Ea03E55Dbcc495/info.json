@@ -1,10 +1,10 @@
 {
-  "name": "Backed CSPX S&P 500",
+  "name": "Backed NVIDIA",
   "website": "https://backed.fi/",
-  "description": "bCSPX is a tokenized S&P 500 product, issued by Backed",
-  "explorer": "https://arbiscan.io/token/0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
-  "type": "ARBITRUM",
-  "symbol": "bCSPX",
+  "description": "bNVDA is a tokenized NVIDIA product, issued by Backed",
+  "explorer": "https://snowtrace.io/token/0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+  "type": "AVALANCHE",
+  "symbol": "bNVDA",
   "decimals": 18,
   "status": "active",
   "tags": [
@@ -12,7 +12,7 @@
     "RWA",
     "tokenized stocks"
   ],
-  "id": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+  "id": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
   "links": [
     {
       "name": "github",
@@ -28,7 +28,7 @@
     },
     {
       "name": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/backed-cspx-core-s-p-500"
+      "url": "https://www.coingecko.com/en/coins/backed-bndva-nvidia"
     }
   ]
 }

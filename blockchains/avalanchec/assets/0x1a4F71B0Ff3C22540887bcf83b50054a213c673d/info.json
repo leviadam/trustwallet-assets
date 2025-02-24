@@ -1,0 +1,34 @@
+{
+  "name": "Wrapped Backed Strategy",
+  "website": "https://backed.fi/",
+  "description": "wbMSTR is a wrapper of bMSTR, a tokenized Strategy product, issued by Backed",
+  "explorer": "https://snowtrace.io/token/0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+  "type": "AVALANCHE",
+  "symbol": "wbMSTR",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "defi",
+    "RWA",
+    "tokenized stocks"
+  ],
+  "id": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/backed-fi/"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/backedfi"
+    },
+    {
+      "name": "docs",
+      "url": "https://docs.backed.fi/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/wrapped-bmstr"
+    }
+  ]
+}

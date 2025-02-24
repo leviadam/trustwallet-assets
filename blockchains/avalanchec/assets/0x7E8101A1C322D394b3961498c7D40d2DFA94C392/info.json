@@ -1,0 +1,34 @@
+{
+  "name": "Wrapped Backed NVIDIA",
+  "website": "https://backed.fi/",
+  "description": "wbNVDA is a wrapper of bNVDA, a tokenized NVIDIA product, issued by Backed",
+  "explorer": "https://snowtrace.io/token/0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+  "type": "AVALANCHE",
+  "symbol": "wbNVDA",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "defi",
+    "RWA",
+    "tokenized stocks"
+  ],
+  "id": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/backed-fi/"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/backedfi"
+    },
+    {
+      "name": "docs",
+      "url": "https://docs.backed.fi/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/wrapped-bnvda"
+    }
+  ]
+}

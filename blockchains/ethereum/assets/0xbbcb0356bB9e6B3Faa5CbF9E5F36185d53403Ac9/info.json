@@ -1,0 +1,34 @@
+{
+  "name": "Backed Coinbase",
+  "website": "https://backed.fi/",
+  "description": "bCOIN is a tokenized Coinbase product, issued by Backed",
+  "explorer": "https://etherscan.io/token/0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+  "type": "ERC20",
+  "symbol": "bCOIN",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "defi",
+    "RWA",
+    "tokenized stocks"
+  ],
+  "id": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/backed-fi/"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/backedfi"
+    },
+    {
+      "name": "docs",
+      "url": "https://docs.backed.fi/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/backed-coinbase-global"
+    }
+  ]
+}

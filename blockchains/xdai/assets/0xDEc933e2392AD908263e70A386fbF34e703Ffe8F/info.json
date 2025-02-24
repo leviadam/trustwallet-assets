@@ -1,0 +1,34 @@
+{
+  "name": "Wrapped Backed Coinbase",
+  "website": "https://backed.fi/",
+  "description": "wbCOIN is a wrapper of bCOIN, a tokenized Coinbase product, issued by Backed",
+  "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+  "type": "XDAI",
+  "symbol": "wbCOIN",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "defi",
+    "RWA",
+    "tokenized stocks"
+  ],
+  "id": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/backed-fi/"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/backedfi"
+    },
+    {
+      "name": "docs",
+      "url": "https://docs.backed.fi/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/wrapped-bcoin"
+    }
+  ]
+}
